@@ -1,5 +1,5 @@
 //import usestate() for hooks in react
-import react, { useState } from 'react';
+import { useState } from 'react';
 
 //FloorPrice function that takes the connection_slug of any NFT in opensea
 //and returns the price of the corresponding NFT
