@@ -1,6 +1,6 @@
 # LinksDapp
 
-Hello! 👋
+Hello! 🤙🏻
 
 I noticed LinksDAO didn't have a feature that welcomed the addition of their new Champion NFTs, so I created functionality that displays all the champions you own in your wallet so the user can admire their collection while getting great deals and promtions with their LinksDAO membership.
 
